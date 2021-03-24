@@ -1,0 +1,6 @@
+$define CONCAT_BASE 3
+$define CONCAT_PAGE0 0
+$define CONCAT_PAGE1 1
+$define CONCAT_PAGE2 2
+
+move CONCAT_BASE
